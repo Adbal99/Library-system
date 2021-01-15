@@ -3,7 +3,7 @@
     {
         private  $servername = "127.0.0.1:3307";
         private  $username = "root";
-        private  $password = "admin";
+        private  $password = "";
         private  $dbname = "library";
         public $myConn;
         // Create connection
